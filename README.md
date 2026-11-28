@@ -1,5 +1,16 @@
 # 💫 About Me:
 Hey, I'm Venkateshwari! 💗<br><br>CSE AI & ML student with a creative mind, 100 ideas at a time, and curiosity that never switches off. I love experimenting with new things, exploring AI, thinking outside the box and turning "what if?" into "let's try it!"<br><br>Not just here to code, but to create, explore, collaborate and learn along the way. Still figuring it all out, but that's the fun part. ✨
+<br>
+
+<h2 align="center">🌐 Explore My Portfolio</h2>
+
+<p align="center">
+  <a href="https://venkateshwari.framer.website/" target="_blank">
+    <img src="https://img.shields.io/badge/✨_VISIT_MY_PORTFOLIO-ff69b4?style=for-the-badge&logo=framer&logoColor=white" alt="Visit My Portfolio"/>
+  </a>
+</p>
+
+<br>
 
 
 ## 🌐 Socials:
